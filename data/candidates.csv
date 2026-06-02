@@ -1,0 +1,401 @@
+candidate_id,entry_date,recruiter,role,seniority,department,candidate_name,final_stage,source,drop_reason,last_update,days_in_stage,time_to_hire,hire_date,stages_reached
+CAND-0191,2024-01-05,Andres M,Mid Software Engineer,Mid,Engineering,Daniela Perez,Dropped,remoti,Did not complete the tests,2024-01-22,6,,,3
+CAND-0342,2024-01-05,Camila P,IT Vendor Manager,Senior,Operations,Monica Flores,Hired,remoti,,2024-02-09,2,35.0,2024-02-09,8
+CAND-0193,2024-01-06,Sofia R,Mobile Engineer,Mid,Engineering,Juliana Vega,Dropped,client,Did not pass Codility,2024-01-22,1,,,4
+CAND-0057,2024-01-06,Diego L,Mid Software Engineer,Mid,Engineering,Mariana Ospina,Dropped,client,Did not pass Screening,2024-01-13,2,,,2
+CAND-0252,2024-01-09,Valentina C,Sr AI Engineer,Senior,Engineering,Esteban Ortiz,Hired,remoti,,2024-02-14,1,36.0,2024-02-14,8
+CAND-0090,2024-01-12,Valentina C,IT Operations,Junior,Operations,David Rios,Dropped,remoti,Not responsive,2024-01-19,3,,,2
+CAND-0068,2024-01-13,Juan S,Sr AI Engineer,Senior,Engineering,Ivan Acosta,Hired,remoti,,2024-02-23,3,41.0,2024-02-23,8
+CAND-0163,2024-01-14,Diego L,Sr Software Engineer,Senior,Engineering,Daniela Martinez,Hired,remoti,,2024-02-25,2,42.0,2024-02-25,8
+CAND-0208,2024-01-14,Juan S,Data Engineer,Mid,Engineering,Ana Sanchez,Dropped,client,Did not complete the tests,2024-01-17,3,,,1
+CAND-0170,2024-01-17,Valentina C,Product Manager,Mid,Product,Carlos Castro,Hired,client,,2024-02-16,1,30.0,2024-02-16,8
+CAND-0150,2024-01-21,Diego L,IT Vendor Manager,Senior,Operations,Sebastian Rios,Hired,remoti,,2024-02-28,1,38.0,2024-02-28,8
+CAND-0267,2024-01-23,Diego L,Mid Software Engineer,Mid,Engineering,Sara Lopez,Hired,client,,2024-03-01,2,38.0,2024-03-01,8
+CAND-0350,2024-01-27,Andres M,Sr AI Engineer,Senior,Engineering,Camila Ramirez,Dropped,client,Did not pass Codility,2024-02-09,4,,,3
+CAND-0077,2024-01-31,Andres M,Data Engineer,Mid,Engineering,Natalia Cano,Dropped,remoti,Did not complete the tests,2024-02-02,2,,,1
+CAND-0065,2024-02-03,Juan S,Mobile Engineer,Mid,Engineering,Diana Acosta,Hired,remoti,,2024-03-01,2,27.0,2024-03-01,8
+CAND-0241,2024-02-03,Camila P,Mobile Engineer,Mid,Engineering,Sara Ortiz,Dropped,client,Did not pass Wonderlic,2024-02-13,5,,,3
+CAND-0217,2024-02-04,Juan S,Mobile Engineer,Mid,Engineering,Mateo Lopez,Hired,remoti,,2024-03-11,3,36.0,2024-03-11,8
+CAND-0115,2024-02-05,Juan S,SRE,Senior,Engineering,Carolina Medina,Dropped,remoti,Did not pass Wonderlic,2024-02-16,2,,,3
+CAND-0041,2024-02-05,Juan S,Product Manager,Mid,Product,Sergio Gutierrez,Dropped,remoti,Failed Wonderlic and Codility,2024-02-14,5,,,3
+CAND-0319,2024-02-07,Diego L,IT Operations,Junior,Operations,Sara Salazar,Hired,client,,2024-03-19,2,41.0,2024-03-19,8
+CAND-0101,2024-02-12,Juan S,IT Operations,Junior,Operations,Felipe Morales,Dropped,client,Did not pass Screening,2024-02-21,6,,,2
+CAND-0139,2024-02-12,Juan S,Mid Software Engineer,Mid,Engineering,Daniel Cruz,Hired,client,,2024-03-09,3,26.0,2024-03-09,8
+CAND-0073,2024-02-12,Sofia R,Product Manager,Mid,Product,Sebastian Ruiz,Dropped,remoti,Withdrew,2024-02-17,2,,,2
+CAND-0154,2024-02-14,Juan S,Sr Software Engineer,Senior,Engineering,Mateo Romero,Hired,remoti,,2024-03-15,1,30.0,2024-03-15,8
+CAND-0109,2024-02-18,Diego L,Data Engineer,Mid,Engineering,Daniel Cano,Dropped,client,GPA,2024-03-07,3,,,4
+CAND-0260,2024-02-25,Valentina C,Mid Software Engineer,Mid,Engineering,Andres Garcia,Dropped,remoti,Withdrew,2024-03-11,2,,,5
+CAND-0359,2024-02-28,Juan S,Sr Software Engineer,Senior,Engineering,Ivan Fuentes,Dropped,remoti,Not responsive,2024-03-05,2,,,2
+CAND-0311,2024-03-03,Juan S,SRE,Senior,Engineering,Paola Mendez,Dropped,client,Withdrew,2024-03-10,5,,,2
+CAND-0146,2024-03-04,Diego L,Mid Software Engineer,Mid,Engineering,Gabriel Gonzalez,Dropped,remoti,Not responsive,2024-03-28,6,,,5
+CAND-0018,2024-03-04,Valentina C,Mid Software Engineer,Mid,Engineering,Paola Castro,Dropped,remoti,Did not pass Codility,2024-03-13,2,,,3
+CAND-0158,2024-03-05,Camila P,SRE,Senior,Engineering,Ivan Lopez,Dropped,client,Other,2024-03-10,5,,,1
+CAND-0051,2024-03-06,Valentina C,Sr AI Engineer,Senior,Engineering,Ricardo Cardenas,Dropped,remoti,Did not pass interview,2024-04-04,11,,,6
+CAND-0209,2024-03-06,Andres M,Mid Software Engineer,Mid,Engineering,Paola Alvarez,Dropped,remoti,Did not pass Screening,2024-03-10,2,,,2
+CAND-0236,2024-03-13,Juan S,Sr Software Engineer,Senior,Engineering,Lina Gil,Dropped,client,GPA,2024-04-01,7,,,4
+CAND-0147,2024-03-15,Sofia R,Data Engineer,Mid,Engineering,Sebastian Bernal,Dropped,client,Did not complete the tests,2024-03-19,4,,,1
+CAND-0206,2024-03-15,Sofia R,IT Vendor Manager,Senior,Operations,Ana Salazar,Dropped,client,Failed Wonderlic and Codility,2024-04-05,3,,,4
+CAND-0325,2024-03-18,Diego L,Product Manager,Mid,Product,Felipe Morales,Hired,client,,2024-04-22,2,35.0,2024-04-22,8
+CAND-0091,2024-03-18,Juan S,Data Engineer,Mid,Engineering,Diana Moreno,Dropped,client,Rejected offer,2024-04-28,5,,,7
+CAND-0021,2024-03-19,Valentina C,Sr Software Engineer,Senior,Engineering,Adriana Aguilar,Hired,client,,2024-04-19,3,31.0,2024-04-19,8
+CAND-0223,2024-03-19,Camila P,IT Operations,Junior,Operations,Catalina Ospina,Dropped,client,Did not pass Wonderlic,2024-04-04,3,,,4
+CAND-0120,2024-03-20,Diego L,SRE,Senior,Engineering,Paola Herrera,Dropped,client,Not responsive,2024-03-29,7,,,2
+CAND-0266,2024-03-21,Diego L,IT Vendor Manager,Senior,Operations,Ricardo Reyes,Hired,client,,2024-04-22,2,32.0,2024-04-22,8
+CAND-0189,2024-03-22,Diego L,Sr Software Engineer,Senior,Engineering,Diego Gonzalez,Hired,remoti,,2024-04-24,3,33.0,2024-04-24,8
+CAND-0316,2024-03-22,Juan S,Mobile Engineer,Mid,Engineering,Juan Rojas,Dropped,client,GPA,2024-04-09,3,,,4
+CAND-0122,2024-03-25,Camila P,Sr Software Engineer,Senior,Engineering,Paula Parra,Hired,client,,2024-05-05,3,41.0,2024-05-05,8
+CAND-0011,2024-04-01,Camila P,Junior Software Engineer,Junior,Engineering,Rafael Vega,Dropped,client,Failed Wonderlic and Codility,2024-04-20,5,,,4
+CAND-0233,2024-04-01,Juan S,Mid Software Engineer,Mid,Engineering,Mateo Aguilar,Hired,remoti,,2024-05-14,1,43.0,2024-05-14,8
+CAND-0288,2024-04-02,Juan S,Junior Software Engineer,Junior,Engineering,Esteban Mendez,Dropped,remoti,GPA,2024-04-17,5,,,4
+CAND-0388,2024-04-03,Juan S,Sr AI Engineer,Senior,Engineering,Ana Rodriguez,Dropped,client,Withdrew,2024-04-08,2,,,2
+CAND-0229,2024-04-09,Camila P,Product Designer,Mid,Product,Felipe Lopez,Dropped,client,Failed Technical Interview,2024-04-26,6,,,4
+CAND-0284,2024-04-12,Camila P,Mid Software Engineer,Mid,Engineering,Catalina Bernal,Hired,remoti,,2024-05-21,3,39.0,2024-05-21,8
+CAND-0390,2024-04-18,Camila P,Junior Software Engineer,Junior,Engineering,Sebastian Rodriguez,Hired,remoti,,2024-05-22,1,34.0,2024-05-22,8
+CAND-0214,2024-04-18,Andres M,IT Operations,Junior,Operations,Sara Acosta,Dropped,remoti,Did not complete the tests,2024-04-27,5,,,3
+CAND-0092,2024-04-22,Valentina C,IT Vendor Manager,Senior,Operations,Diego Herrera,Hired,remoti,,2024-05-24,1,32.0,2024-05-24,8
+CAND-0168,2024-04-23,Diego L,Mid Software Engineer,Mid,Engineering,Sara Vargas,Dropped,remoti,Not responsive,2024-04-24,1,,,1
+CAND-0270,2024-04-23,Juan S,IT Vendor Manager,Senior,Operations,Sofia Moreno,Dropped,client,Withdrew,2024-04-29,3,,,2
+CAND-0271,2024-04-24,Andres M,IT Vendor Manager,Senior,Operations,Marcela Cano,Dropped,client,Did not complete the tests,2024-04-28,4,,,1
+CAND-0357,2024-04-29,Juan S,Sr Software Engineer,Senior,Engineering,Juliana Aguilar,Dropped,client,Not responsive,2024-05-12,6,,,3
+CAND-0276,2024-05-02,Juan S,Data Engineer,Mid,Engineering,Ivan Lopez,Hired,remoti,,2024-06-09,1,38.0,2024-06-09,8
+CAND-0256,2024-05-02,Sofia R,Product Manager,Mid,Product,Daniel Fuentes,Dropped,remoti,Not responsive,2024-05-26,7,,,5
+CAND-0129,2024-05-05,Camila P,IT Vendor Manager,Senior,Operations,Paula Suarez,Hired,remoti,,2024-06-08,3,34.0,2024-06-08,8
+CAND-0034,2024-05-08,Andres M,Junior Software Engineer,Junior,Engineering,Mateo Ramos,Hired,client,,2024-06-27,1,50.0,2024-06-27,8
+CAND-0078,2024-05-13,Andres M,Sr Software Engineer,Senior,Engineering,Sara Rios,Dropped,remoti,Not responsive,2024-05-24,7,,,2
+CAND-0083,2024-05-17,Juan S,Junior Software Engineer,Junior,Engineering,Monica Cruz,Dropped,remoti,Other,2024-05-22,5,,,1
+CAND-0211,2024-05-17,Diego L,Data Engineer,Mid,Engineering,Daniel Flores,Hired,remoti,,2024-06-21,3,35.0,2024-06-21,8
+CAND-0255,2024-05-18,Andres M,Junior Software Engineer,Junior,Engineering,Ivan Sanchez,Hired,client,,2024-06-23,1,36.0,2024-06-23,8
+CAND-0322,2024-05-21,Andres M,IT Vendor Manager,Senior,Operations,Sofia Jimenez,Dropped,remoti,Did not pass interview,2024-06-17,5,,,5
+CAND-0172,2024-05-23,Juan S,Mobile Engineer,Mid,Engineering,Luisa Reyes,Dropped,client,Did not pass Screening,2024-06-02,7,,,2
+CAND-0257,2024-05-24,Camila P,SRE,Senior,Engineering,Juan Jimenez,Dropped,remoti,Did not pass Wonderlic,2024-06-09,7,,,4
+CAND-0100,2024-05-24,Diego L,Sr AI Engineer,Senior,Engineering,Daniel Rios,Dropped,remoti,Other,2024-05-26,2,,,1
+CAND-0363,2024-05-25,Andres M,Mobile Engineer,Mid,Engineering,Carlos Soto,Hired,remoti,,2024-07-01,2,37.0,2024-07-01,8
+CAND-0226,2024-05-28,Sofia R,Product Manager,Mid,Product,Maria Fuentes,Dropped,client,Did not complete the tests,2024-06-10,7,,,3
+CAND-0373,2024-06-01,Andres M,Fraud Ops,Junior,Operations,Juan Garcia,Dropped,remoti,Did not pass interview,2024-06-18,3,,,5
+CAND-0375,2024-06-04,Andres M,Product Manager,Mid,Product,Sergio Cardenas,Dropped,remoti,Did not pass Screening,2024-06-07,2,,,2
+CAND-0025,2024-06-04,Valentina C,Data Engineer,Mid,Engineering,Nicolas Salazar,Dropped,remoti,Withdrew,2024-06-23,7,,,5
+CAND-0237,2024-06-04,Sofia R,IT Operations,Junior,Operations,Andres Morales,Hired,remoti,,2024-07-09,2,35.0,2024-07-09,8
+CAND-0116,2024-06-10,Camila P,Sr Software Engineer,Senior,Engineering,Paola Ruiz,Hired,remoti,,2024-07-10,2,30.0,2024-07-10,8
+CAND-0285,2024-06-10,Sofia R,IT Vendor Manager,Senior,Operations,Isabella Jimenez,Dropped,client,Did not pass Screening,2024-06-15,4,,,2
+CAND-0280,2024-06-17,Camila P,Mobile Engineer,Mid,Engineering,Rafael Lopez,Dropped,remoti,Did not complete the tests,2024-06-28,4,,,3
+CAND-0310,2024-06-17,Juan S,Product Manager,Mid,Product,Diana Bernal,Hired,client,,2024-07-16,2,29.0,2024-07-16,8
+CAND-0179,2024-06-21,Juan S,IT Vendor Manager,Senior,Operations,Andrea Chavez,Dropped,remoti,Not responsive,2024-06-29,6,,,2
+CAND-0102,2024-06-22,Camila P,IT Vendor Manager,Senior,Operations,Natalia Ramos,Dropped,client,Not responsive,2024-06-26,4,,,1
+CAND-0042,2024-06-24,Valentina C,Mobile Engineer,Mid,Engineering,Gabriel Ospina,Hired,client,,2024-08-03,3,40.0,2024-08-03,8
+CAND-0097,2024-06-29,Sofia R,Sr AI Engineer,Senior,Engineering,Paula Gonzalez,Hired,remoti,,2024-08-03,3,35.0,2024-08-03,8
+CAND-0324,2024-07-01,Juan S,Data Engineer,Mid,Engineering,Nicolas Ospina,Hired,remoti,,2024-08-12,2,42.0,2024-08-12,8
+CAND-0202,2024-07-02,Juan S,Sr Software Engineer,Senior,Engineering,Santiago Castro,Dropped,remoti,Not responsive,2024-07-03,1,,,1
+CAND-0070,2024-07-02,Valentina C,Fraud Ops,Junior,Operations,Juliana Moreno,Hired,client,,2024-08-09,2,38.0,2024-08-09,8
+CAND-0304,2024-07-04,Andres M,Mobile Engineer,Mid,Engineering,Pablo Torres,Dropped,remoti,Withdrew,2024-07-14,6,,,2
+CAND-0026,2024-07-04,Andres M,IT Operations,Junior,Operations,Paula Alvarez,Dropped,client,Did not complete the tests,2024-07-08,4,,,1
+CAND-0371,2024-07-06,Valentina C,Mobile Engineer,Mid,Engineering,Carolina Castro,Dropped,remoti,Did not pass Codility,2024-07-26,9,,,3
+CAND-0205,2024-07-06,Diego L,Mobile Engineer,Mid,Engineering,Isabella Chavez,Hired,client,,2024-08-07,1,32.0,2024-08-07,8
+CAND-0121,2024-07-09,Camila P,Mid Software Engineer,Mid,Engineering,Jorge Chavez,Dropped,remoti,Did not pass Wonderlic,2024-07-23,10,,,3
+CAND-0019,2024-07-13,Camila P,Junior Software Engineer,Junior,Engineering,Natalia Cano,Dropped,remoti,Did not complete the tests,2024-07-29,8,,,3
+CAND-0344,2024-07-19,Andres M,Fraud Ops,Junior,Operations,Alejandro Fuentes,Dropped,remoti,Did not complete the tests,2024-07-20,1,,,1
+CAND-0382,2024-07-21,Sofia R,Product Manager,Mid,Product,Andrea Molina,Dropped,client,Did not pass Wonderlic,2024-08-15,6,,,4
+CAND-0138,2024-07-27,Diego L,Product Manager,Mid,Product,Carolina Parra,Dropped,remoti,Withdrew,2024-08-06,7,,,2
+CAND-0218,2024-07-27,Diego L,Junior Software Engineer,Junior,Engineering,Jorge Cardenas,Hired,remoti,,2024-09-13,1,48.0,2024-09-13,8
+CAND-0222,2024-07-29,Valentina C,SRE,Senior,Engineering,Adriana Flores,Dropped,client,Did not pass Wonderlic,2024-08-10,7,,,3
+CAND-0201,2024-07-31,Valentina C,Sr Software Engineer,Senior,Engineering,Rafael Lopez,Hired,remoti,,2024-09-05,3,36.0,2024-09-05,8
+CAND-0124,2024-07-31,Diego L,Mid Software Engineer,Mid,Engineering,Monica Sanchez,Dropped,remoti,Did not pass interview,2024-08-26,5,,,5
+CAND-0297,2024-08-03,Andres M,Sr Software Engineer,Senior,Engineering,Mauricio Vargas,Dropped,remoti,Other,2024-08-26,4,,,5
+CAND-0337,2024-08-05,Sofia R,Product Designer,Mid,Product,Ivan Gutierrez,Hired,remoti,,2024-09-05,1,31.0,2024-09-05,8
+CAND-0389,2024-08-06,Valentina C,Data Engineer,Mid,Engineering,Daniela Torres,Dropped,remoti,Did not pass Wonderlic,2024-08-26,6,,,4
+CAND-0048,2024-08-13,Juan S,Sr AI Engineer,Senior,Engineering,Andres Lopez,Hired,remoti,,2024-09-21,2,39.0,2024-09-21,8
+CAND-0220,2024-08-16,Juan S,IT Vendor Manager,Senior,Operations,Gabriel Herrera,Dropped,remoti,Failed Wonderlic and Codility,2024-08-30,4,,,3
+CAND-0156,2024-08-18,Sofia R,Sr Software Engineer,Senior,Engineering,Lina Cano,Dropped,remoti,Did not complete the tests,2024-08-20,2,,,1
+CAND-0143,2024-08-18,Valentina C,Product Manager,Mid,Product,Rafael Medina,Dropped,remoti,Withdrew,2024-08-25,5,,,2
+CAND-0105,2024-08-19,Sofia R,IT Vendor Manager,Senior,Operations,Paula Flores,Hired,client,,2024-09-14,3,26.0,2024-09-14,8
+CAND-0278,2024-08-21,Juan S,Fraud Ops,Junior,Operations,Diana Ramos,Dropped,remoti,Rejected offer,2024-09-23,2,,,7
+CAND-0071,2024-08-23,Andres M,Sr AI Engineer,Senior,Engineering,Andrea Medina,Dropped,client,Failed Wonderlic and Codility,2024-09-10,8,,,3
+CAND-0013,2024-08-26,Juan S,Junior Software Engineer,Junior,Engineering,Ivan Rojas,Dropped,remoti,Did not pass Screening,2024-08-31,4,,,2
+CAND-0299,2024-08-27,Andres M,SRE,Senior,Engineering,Sara Cardenas,Dropped,remoti,Did not pass Screening,2024-09-01,4,,,2
+CAND-0309,2024-08-27,Juan S,IT Vendor Manager,Senior,Operations,Paula Soto,Dropped,remoti,Not responsive,2024-09-03,3,,,2
+CAND-0365,2024-08-28,Camila P,Product Manager,Mid,Product,Mateo Ramirez,Dropped,remoti,Did not pass Screening,2024-09-09,7,,,2
+CAND-0334,2024-08-30,Diego L,Mid Software Engineer,Mid,Engineering,Mariana Medina,Dropped,client,Not responsive,2024-09-05,5,,,2
+CAND-0137,2024-08-30,Camila P,Junior Software Engineer,Junior,Engineering,Felipe Alvarez,Dropped,remoti,Failed Wonderlic and Codility,2024-09-09,2,,,4
+CAND-0103,2024-08-31,Juan S,Product Manager,Mid,Product,Rafael Ramirez,Hired,client,,2024-10-10,1,40.0,2024-10-10,8
+CAND-0093,2024-09-02,Juan S,Product Designer,Mid,Product,Carolina Gonzalez,Dropped,client,Did not pass Screening,2024-09-06,3,,,2
+CAND-0142,2024-09-02,Sofia R,Sr AI Engineer,Senior,Engineering,Ana Torres,Hired,remoti,,2024-10-05,3,33.0,2024-10-05,8
+CAND-0321,2024-09-02,Juan S,IT Vendor Manager,Senior,Operations,Camila Suarez,Dropped,remoti,Withdrew,2024-09-12,5,,,2
+CAND-0320,2024-09-03,Andres M,Fraud Ops,Junior,Operations,Marcela Chavez,Hired,remoti,,2024-10-11,3,38.0,2024-10-11,8
+CAND-0155,2024-09-06,Juan S,Product Designer,Mid,Product,Sofia Medina,Hired,remoti,,2024-10-23,2,47.0,2024-10-23,8
+CAND-0332,2024-09-06,Sofia R,Mid Software Engineer,Mid,Engineering,Diana Ramos,Hired,remoti,,2024-10-13,2,37.0,2024-10-13,8
+CAND-0165,2024-09-07,Valentina C,Sr AI Engineer,Senior,Engineering,David Gonzalez,Hired,remoti,,2024-10-22,2,45.0,2024-10-22,8
+CAND-0108,2024-09-08,Juan S,Data Engineer,Mid,Engineering,Pablo Rios,Dropped,remoti,Failed Cultural Interview,2024-09-29,8,,,6
+CAND-0283,2024-09-10,Camila P,Fraud Ops,Junior,Operations,Miguel Bernal,Hired,client,,2024-10-10,1,30.0,2024-10-10,8
+CAND-0001,2024-09-11,Sofia R,Product Manager,Mid,Product,Valentina Perez,Dropped,client,Did not pass Codility,2024-09-25,10,,,3
+CAND-0369,2024-09-12,Sofia R,Mobile Engineer,Mid,Engineering,Mauricio Lopez,Dropped,client,Did not pass Screening,2024-09-24,7,,,2
+CAND-0368,2024-09-13,Valentina C,SRE,Senior,Engineering,Daniel Ramos,Hired,client,,2024-10-29,3,46.0,2024-10-29,8
+CAND-0336,2024-09-17,Andres M,Mobile Engineer,Mid,Engineering,Juan Moreno,Dropped,client,Other,2024-10-02,4,,,4
+CAND-0381,2024-09-21,Andres M,Junior Software Engineer,Junior,Engineering,Luisa Parra,Dropped,remoti,Did not pass Codility,2024-09-30,2,,,3
+CAND-0345,2024-09-23,Camila P,SRE,Senior,Engineering,Laura Medina,Dropped,client,Withdrew,2024-10-12,8,,,5
+CAND-0351,2024-09-23,Camila P,Sr Software Engineer,Senior,Engineering,Andres Parra,Hired,remoti,,2024-11-02,2,40.0,2024-11-02,8
+CAND-0243,2024-09-25,Andres M,Sr Software Engineer,Senior,Engineering,Sofia Chavez,Dropped,client,Withdrew,2024-10-01,5,,,2
+CAND-0286,2024-09-25,Camila P,Data Engineer,Mid,Engineering,Esteban Garcia,Dropped,client,Failed Wonderlic and Codility,2024-10-13,7,,,3
+CAND-0117,2024-09-27,Sofia R,Fraud Ops,Junior,Operations,Ivan Herrera,Hired,remoti,,2024-11-11,2,45.0,2024-11-11,8
+CAND-0024,2024-09-29,Andres M,Junior Software Engineer,Junior,Engineering,Gabriel Flores,Dropped,remoti,Did not pass Wonderlic,2024-10-17,10,,,3
+CAND-0227,2024-10-02,Valentina C,Product Manager,Mid,Product,Esteban Ruiz,Hired,remoti,,2024-10-29,2,27.0,2024-10-29,8
+CAND-0317,2024-10-02,Andres M,Product Designer,Mid,Product,Maria Acosta,Dropped,client,Did not pass Wonderlic,2024-10-14,7,,,3
+CAND-0086,2024-10-04,Juan S,Product Manager,Mid,Product,Paola Gutierrez,Hired,client,,2024-11-08,1,35.0,2024-11-08,8
+CAND-0027,2024-10-04,Juan S,IT Vendor Manager,Senior,Operations,Diego Aguilar,Dropped,client,Failed Technical Interview,2024-10-12,2,,,4
+CAND-0023,2024-10-09,Juan S,Fraud Ops,Junior,Operations,Daniela Martinez,Dropped,remoti,Not responsive,2024-11-05,8,,,5
+CAND-0035,2024-10-14,Andres M,Sr Software Engineer,Senior,Engineering,Adriana Gutierrez,Hired,client,,2024-11-08,1,25.0,2024-11-08,8
+CAND-0098,2024-10-21,Camila P,Sr Software Engineer,Senior,Engineering,Monica Ruiz,Hired,remoti,,2024-12-01,2,41.0,2024-12-01,8
+CAND-0127,2024-10-23,Juan S,Fraud Ops,Junior,Operations,Sebastian Jimenez,Dropped,remoti,Not responsive,2024-10-28,5,,,1
+CAND-0269,2024-10-29,Juan S,Sr Software Engineer,Senior,Engineering,Mariana Ramirez,Dropped,client,Withdrew,2024-11-10,7,,,2
+CAND-0231,2024-11-01,Sofia R,Junior Software Engineer,Junior,Engineering,Miguel Perez,Dropped,remoti,Did not pass Screening,2024-11-08,2,,,2
+CAND-0114,2024-11-02,Sofia R,Sr Software Engineer,Senior,Engineering,Luisa Medina,Hired,remoti,,2024-12-10,3,38.0,2024-12-10,8
+CAND-0182,2024-11-04,Juan S,Mid Software Engineer,Mid,Engineering,Ana Torres,Dropped,client,Did not pass Screening,2024-11-16,7,,,2
+CAND-0118,2024-11-07,Camila P,Product Designer,Mid,Product,Valentina Medina,Dropped,remoti,Withdrew,2024-12-02,8,,,5
+CAND-0330,2024-11-10,Diego L,Sr Software Engineer,Senior,Engineering,Sebastian Herrera,Dropped,remoti,Other,2024-11-11,1,,,1
+CAND-0370,2024-11-11,Diego L,Mid Software Engineer,Mid,Engineering,Esteban Ramirez,Hired,remoti,,2024-12-20,3,39.0,2024-12-20,8
+CAND-0290,2024-11-12,Camila P,Mobile Engineer,Mid,Engineering,Sergio Lopez,Hired,client,,2024-12-27,3,45.0,2024-12-27,8
+CAND-0095,2024-11-17,Valentina C,Product Manager,Mid,Product,Maria Salazar,Dropped,remoti,Did not complete the tests,2024-11-29,6,,,3
+CAND-0029,2024-11-21,Valentina C,Product Manager,Mid,Product,Juan Jimenez,Dropped,client,Withdrew,2024-12-01,6,,,2
+CAND-0197,2024-11-22,Valentina C,Product Designer,Mid,Product,Rafael Cardenas,Dropped,client,Not responsive,2024-12-01,7,,,2
+CAND-0340,2024-11-24,Andres M,IT Operations,Junior,Operations,Miguel Molina,Hired,remoti,,2025-01-01,3,38.0,2025-01-01,8
+CAND-0199,2024-11-24,Sofia R,Fraud Ops,Junior,Operations,Santiago Jimenez,Dropped,client,Not responsive,2024-12-27,8,,,5
+CAND-0364,2024-11-25,Juan S,SRE,Senior,Engineering,Valentina Salazar,Hired,remoti,,2024-12-31,1,36.0,2024-12-31,8
+CAND-0240,2024-11-28,Diego L,Sr AI Engineer,Senior,Engineering,Ana Rios,Hired,client,,2025-01-08,1,41.0,2025-01-08,8
+CAND-0333,2024-11-28,Camila P,Sr Software Engineer,Senior,Engineering,Miguel Vargas,Dropped,remoti,Other,2024-12-05,6,,,2
+CAND-0343,2024-11-29,Valentina C,Product Manager,Mid,Product,Sebastian Morales,Dropped,remoti,Withdrew,2024-12-07,7,,,2
+CAND-0377,2024-11-30,Sofia R,Sr AI Engineer,Senior,Engineering,Juliana Vargas,Dropped,client,Did not pass Codility,2024-12-15,10,,,3
+CAND-0338,2024-12-02,Andres M,Sr AI Engineer,Senior,Engineering,Natalia Castro,Hired,remoti,,2025-01-05,1,34.0,2025-01-05,8
+CAND-0045,2024-12-02,Valentina C,Product Manager,Mid,Product,Mariana Soto,Hired,remoti,,2025-01-08,2,37.0,2025-01-08,8
+CAND-0261,2024-12-06,Juan S,IT Vendor Manager,Senior,Operations,Andrea Vargas,Dropped,remoti,Did not pass Codility,2024-12-21,3,,,4
+CAND-0064,2024-12-06,Diego L,Product Manager,Mid,Product,Mauricio Sanchez,Hired,remoti,,2025-01-12,1,37.0,2025-01-12,8
+CAND-0157,2024-12-07,Valentina C,Product Designer,Mid,Product,Sebastian Molina,Hired,remoti,,2025-01-20,1,44.0,2025-01-20,8
+CAND-0394,2024-12-08,Juan S,Mobile Engineer,Mid,Engineering,Mateo Moreno,Dropped,client,Did not pass Screening,2024-12-13,2,,,2
+CAND-0216,2024-12-09,Sofia R,IT Vendor Manager,Senior,Operations,Felipe Parra,Dropped,client,Did not complete the tests,2024-12-10,1,,,1
+CAND-0293,2024-12-09,Andres M,IT Vendor Manager,Senior,Operations,Carlos Gonzalez,Hired,remoti,,2025-01-10,3,32.0,2025-01-10,8
+CAND-0056,2024-12-11,Diego L,Sr AI Engineer,Senior,Engineering,Luis Reyes,Dropped,remoti,Did not pass interview,2025-01-05,6,,,5
+CAND-0352,2024-12-12,Sofia R,Sr Software Engineer,Senior,Engineering,Paola Martinez,Hired,client,,2025-01-14,2,33.0,2025-01-14,8
+CAND-0384,2024-12-17,Valentina C,Sr AI Engineer,Senior,Engineering,Ana Reyes,Dropped,client,Did not pass Wonderlic,2025-01-01,8,,,3
+CAND-0397,2024-12-20,Diego L,Mobile Engineer,Mid,Engineering,Jorge Soto,Dropped,remoti,Not responsive,2025-01-11,5,,,5
+CAND-0152,2024-12-22,Camila P,Product Manager,Mid,Product,Esteban Suarez,Dropped,remoti,Did not pass Codility,2025-01-07,8,,,3
+CAND-0003,2024-12-22,Sofia R,Junior Software Engineer,Junior,Engineering,Maria Soto,Dropped,remoti,Did not complete the tests,2025-01-08,10,,,3
+CAND-0067,2024-12-23,Sofia R,Data Engineer,Mid,Engineering,Miguel Rodriguez,Hired,remoti,,2025-02-03,3,42.0,2025-02-03,8
+CAND-0221,2024-12-30,Sofia R,Fraud Ops,Junior,Operations,Valentina Gil,Dropped,client,Not responsive,2025-01-23,2,,,5
+CAND-0110,2024-12-30,Valentina C,Product Designer,Mid,Product,Andrea Suarez,Dropped,remoti,Withdrew,2025-01-11,7,,,2
+CAND-0313,2024-12-31,Valentina C,Junior Software Engineer,Junior,Engineering,Andrea Diaz,Hired,client,,2025-02-09,1,40.0,2025-02-09,8
+CAND-0162,2025-01-01,Camila P,Mid Software Engineer,Mid,Engineering,Luisa Ruiz,Hired,remoti,,2025-01-31,1,30.0,2025-01-31,8
+CAND-0392,2025-01-03,Juan S,IT Vendor Manager,Senior,Operations,Andrea Parra,Dropped,remoti,Did not complete the tests,2025-01-19,10,,,3
+CAND-0282,2025-01-08,Juan S,Fraud Ops,Junior,Operations,Ricardo Romero,Dropped,remoti,GPA,2025-02-02,6,,,4
+CAND-0004,2025-01-09,Juan S,Sr Software Engineer,Senior,Engineering,Miguel Perez,Dropped,remoti,Did not pass Screening,2025-01-16,2,,,2
+CAND-0087,2025-01-17,Diego L,Sr Software Engineer,Senior,Engineering,Laura Acosta,Dropped,remoti,Not responsive,2025-01-28,2,,,3
+CAND-0104,2025-01-19,Sofia R,Fraud Ops,Junior,Operations,Pablo Flores,Dropped,remoti,Failed Wonderlic and Codility,2025-02-10,7,,,4
+CAND-0239,2025-01-20,Diego L,Junior Software Engineer,Junior,Engineering,Sebastian Aguilar,Dropped,client,Failed Technical Interview,2025-02-09,6,,,4
+CAND-0148,2025-01-22,Juan S,Sr AI Engineer,Senior,Engineering,Juliana Morales,Dropped,client,Did not complete the tests,2025-02-10,10,,,3
+CAND-0031,2025-01-27,Diego L,Mid Software Engineer,Mid,Engineering,Mateo Castro,Hired,remoti,,2025-02-28,3,32.0,2025-02-28,8
+CAND-0132,2025-01-28,Camila P,Product Manager,Mid,Product,Juliana Ortiz,Dropped,client,Other,2025-02-02,3,,,2
+CAND-0072,2025-01-29,Juan S,Product Manager,Mid,Product,Andrea Aguilar,Dropped,remoti,Did not pass Wonderlic,2025-02-19,5,,,4
+CAND-0391,2025-01-31,Juan S,Mobile Engineer,Mid,Engineering,Lina Ospina,Dropped,remoti,Not responsive,2025-02-06,5,,,2
+CAND-0194,2025-01-31,Diego L,Product Designer,Mid,Product,Ana Ramirez,Dropped,remoti,Did not pass Screening,2025-02-03,2,,,2
+CAND-0183,2025-02-05,Juan S,Mid Software Engineer,Mid,Engineering,Jorge Ramos,Hired,remoti,,2025-03-14,1,37.0,2025-03-14,8
+CAND-0362,2025-02-10,Andres M,Sr AI Engineer,Senior,Engineering,Rafael Cruz,Dropped,remoti,Other,2025-02-27,5,,,4
+CAND-0166,2025-02-14,Camila P,Sr Software Engineer,Senior,Engineering,Ricardo Rojas,Dropped,client,Not responsive,2025-02-17,3,,,1
+CAND-0349,2025-02-14,Diego L,Sr Software Engineer,Senior,Engineering,Santiago Aguilar,Dropped,remoti,Did not complete the tests,2025-03-01,10,,,3
+CAND-0232,2025-02-15,Sofia R,Mobile Engineer,Mid,Engineering,Sergio Lopez,Hired,remoti,,2025-03-25,2,38.0,2025-03-25,8
+CAND-0200,2025-02-15,Sofia R,Mid Software Engineer,Mid,Engineering,Diana Flores,Dropped,client,Failed Wonderlic and Codility,2025-03-11,4,,,4
+CAND-0128,2025-02-18,Diego L,Product Designer,Mid,Product,Monica Vargas,Dropped,remoti,Failed Wonderlic and Codility,2025-02-28,6,,,3
+CAND-0175,2025-02-18,Camila P,Mobile Engineer,Mid,Engineering,Felipe Bernal,Hired,remoti,,2025-03-24,2,34.0,2025-03-24,8
+CAND-0398,2025-02-23,Diego L,Junior Software Engineer,Junior,Engineering,Ivan Flores,Hired,remoti,,2025-04-01,1,37.0,2025-04-01,8
+CAND-0212,2025-02-24,Diego L,Junior Software Engineer,Junior,Engineering,Ana Cardenas,Dropped,remoti,GPA,2025-03-10,1,,,4
+CAND-0258,2025-02-27,Andres M,IT Vendor Manager,Senior,Operations,Juliana Parra,Dropped,remoti,Did not pass interview,2025-03-19,2,,,5
+CAND-0230,2025-02-27,Andres M,Junior Software Engineer,Junior,Engineering,Mariana Flores,Dropped,client,Failed Wonderlic and Codility,2025-03-18,1,,,4
+CAND-0133,2025-03-02,Valentina C,Junior Software Engineer,Junior,Engineering,Ivan Suarez,Dropped,remoti,Did not pass Codility,2025-03-17,5,,,4
+CAND-0383,2025-03-03,Diego L,Fraud Ops,Junior,Operations,Diego Gonzalez,Dropped,client,GPA,2025-03-16,1,,,4
+CAND-0300,2025-03-04,Sofia R,Product Designer,Mid,Product,Sergio Cano,Dropped,remoti,Did not pass interview,2025-03-28,5,,,5
+CAND-0380,2025-03-04,Andres M,Product Designer,Mid,Product,Mauricio Gutierrez,Dropped,client,Not responsive,2025-03-08,4,,,1
+CAND-0376,2025-03-06,Sofia R,Sr Software Engineer,Senior,Engineering,Lina Medina,Dropped,remoti,Did not pass Codility,2025-03-22,10,,,3
+CAND-0262,2025-03-11,Juan S,IT Vendor Manager,Senior,Operations,Mateo Parra,Dropped,client,Did not complete the tests,2025-03-24,4,,,3
+CAND-0040,2025-03-11,Diego L,Sr Software Engineer,Senior,Engineering,Diego Chavez,Dropped,remoti,Not responsive,2025-03-19,5,,,2
+CAND-0016,2025-03-12,Camila P,Mid Software Engineer,Mid,Engineering,Santiago Perez,Dropped,remoti,Other,2025-03-29,2,,,5
+CAND-0235,2025-03-13,Andres M,Sr AI Engineer,Senior,Engineering,Camila Cardenas,Dropped,remoti,Withdrew,2025-03-19,5,,,2
+CAND-0190,2025-03-19,Diego L,IT Operations,Junior,Operations,Andrea Rodriguez,Dropped,remoti,Failed Technical Interview,2025-04-11,3,,,6
+CAND-0167,2025-03-22,Camila P,Mid Software Engineer,Mid,Engineering,Alejandro Ospina,Dropped,client,Did not pass Codility,2025-04-12,6,,,4
+CAND-0113,2025-03-27,Sofia R,Sr Software Engineer,Senior,Engineering,Esteban Mendez,Hired,client,,2025-04-28,1,32.0,2025-04-28,8
+CAND-0386,2025-04-03,Andres M,IT Operations,Junior,Operations,Pablo Flores,Dropped,client,Did not complete the tests,2025-04-08,5,,,1
+CAND-0080,2025-04-03,Diego L,Product Manager,Mid,Product,Lina Soto,Dropped,client,Failed Wonderlic and Codility,2025-04-11,3,,,3
+CAND-0061,2025-04-06,Diego L,Sr AI Engineer,Senior,Engineering,Mateo Ruiz,Hired,client,,2025-05-22,3,46.0,2025-05-22,8
+CAND-0169,2025-04-08,Sofia R,Junior Software Engineer,Junior,Engineering,Monica Perez,Dropped,remoti,Did not pass Screening,2025-04-18,5,,,2
+CAND-0125,2025-04-09,Diego L,Sr Software Engineer,Senior,Engineering,Felipe Reyes,Dropped,remoti,Failed Technical Interview,2025-04-25,4,,,4
+CAND-0292,2025-04-10,Andres M,Product Manager,Mid,Product,Catalina Vargas,Hired,remoti,,2025-05-13,3,33.0,2025-05-13,8
+CAND-0005,2025-04-13,Sofia R,IT Vendor Manager,Senior,Operations,Marcela Bernal,Dropped,remoti,Did not pass Screening,2025-04-20,4,,,2
+CAND-0393,2025-04-15,Juan S,Mid Software Engineer,Mid,Engineering,Luis Medina,Dropped,remoti,Failed Technical Interview,2025-05-06,2,,,4
+CAND-0063,2025-04-16,Diego L,Fraud Ops,Junior,Operations,Luis Cruz,Dropped,remoti,Not responsive,2025-04-26,4,,,3
+CAND-0251,2025-04-17,Camila P,Sr Software Engineer,Senior,Engineering,Paula Ospina,Dropped,client,Did not pass Screening,2025-04-26,7,,,2
+CAND-0134,2025-04-19,Valentina C,SRE,Senior,Engineering,Sofia Rojas,Hired,client,,2025-05-23,3,34.0,2025-05-23,8
+CAND-0039,2025-04-21,Juan S,Junior Software Engineer,Junior,Engineering,Sofia Moreno,Dropped,remoti,Not responsive,2025-04-23,2,,,1
+CAND-0066,2025-04-21,Camila P,Mid Software Engineer,Mid,Engineering,Miguel Acosta,Dropped,remoti,Withdrew,2025-05-01,7,,,2
+CAND-0174,2025-04-21,Sofia R,IT Operations,Junior,Operations,Alejandro Gonzalez,Hired,client,,2025-05-30,2,39.0,2025-05-30,8
+CAND-0036,2025-04-26,Diego L,Junior Software Engineer,Junior,Engineering,Alejandro Cano,Dropped,remoti,Other,2025-04-30,4,,,1
+CAND-0009,2025-04-28,Diego L,Product Manager,Mid,Product,Luis Rios,Hired,remoti,,2025-06-01,1,34.0,2025-06-01,8
+CAND-0106,2025-05-02,Valentina C,Mid Software Engineer,Mid,Engineering,Ana Torres,Hired,client,,2025-06-04,1,33.0,2025-06-04,8
+CAND-0219,2025-05-02,Valentina C,Mid Software Engineer,Mid,Engineering,Daniela Molina,Dropped,remoti,Failed Wonderlic and Codility,2025-05-17,4,,,3
+CAND-0136,2025-05-09,Juan S,Sr AI Engineer,Senior,Engineering,Natalia Romero,Dropped,remoti,GPA,2025-05-29,2,,,4
+CAND-0315,2025-05-12,Camila P,Product Manager,Mid,Product,Miguel Perez,Hired,client,,2025-06-18,1,37.0,2025-06-18,8
+CAND-0184,2025-05-15,Valentina C,Product Manager,Mid,Product,Miguel Martinez,Hired,client,,2025-06-23,1,39.0,2025-06-23,8
+CAND-0017,2025-05-16,Andres M,Sr AI Engineer,Senior,Engineering,Ivan Rojas,Hired,remoti,,2025-06-27,3,42.0,2025-06-27,8
+CAND-0088,2025-05-16,Diego L,Junior Software Engineer,Junior,Engineering,Diego Vega,Dropped,remoti,Not responsive,2025-05-25,4,,,2
+CAND-0089,2025-05-17,Juan S,Junior Software Engineer,Junior,Engineering,Sofia Ramirez,Dropped,remoti,Did not pass Wonderlic,2025-05-26,2,,,3
+CAND-0355,2025-05-18,Diego L,IT Operations,Junior,Operations,Diego Ortiz,Hired,remoti,,2025-07-01,2,44.0,2025-07-01,8
+CAND-0331,2025-05-22,Camila P,Sr Software Engineer,Senior,Engineering,Alejandro Ruiz,Hired,remoti,,2025-06-30,3,39.0,2025-06-30,8
+CAND-0140,2025-05-24,Juan S,Sr Software Engineer,Senior,Engineering,Isabella Salazar,Hired,remoti,,2025-06-21,1,28.0,2025-06-21,8
+CAND-0207,2025-05-24,Valentina C,Mid Software Engineer,Mid,Engineering,Valentina Chavez,Dropped,remoti,Did not complete the tests,2025-06-06,5,,,3
+CAND-0385,2025-05-27,Valentina C,Product Designer,Mid,Product,Juliana Medina,Dropped,remoti,Did not pass Screening,2025-06-02,4,,,2
+CAND-0374,2025-05-28,Valentina C,Product Manager,Mid,Product,Daniela Salazar,Hired,remoti,,2025-07-01,3,34.0,2025-07-01,8
+CAND-0204,2025-05-30,Camila P,SRE,Senior,Engineering,Natalia Martinez,Dropped,remoti,Withdrew,2025-06-22,3,,,6
+CAND-0353,2025-06-02,Camila P,Sr Software Engineer,Senior,Engineering,Luisa Flores,Dropped,remoti,Not responsive,2025-07-02,6,,,5
+CAND-0314,2025-06-06,Valentina C,Data Engineer,Mid,Engineering,Paula Moreno,Hired,remoti,,2025-07-10,1,34.0,2025-07-10,8
+CAND-0060,2025-06-08,Andres M,Mid Software Engineer,Mid,Engineering,Lina Cano,Dropped,client,Withdrew,2025-07-07,8,,,5
+CAND-0141,2025-06-15,Diego L,Fraud Ops,Junior,Operations,Mateo Reyes,Dropped,client,Other,2025-06-25,7,,,2
+CAND-0130,2025-06-15,Andres M,SRE,Senior,Engineering,Valentina Medina,Hired,remoti,,2025-08-02,2,48.0,2025-08-02,8
+CAND-0145,2025-06-20,Andres M,Data Engineer,Mid,Engineering,Laura Moreno,Dropped,remoti,Failed Wonderlic and Codility,2025-07-06,9,,,3
+CAND-0379,2025-06-20,Camila P,Sr AI Engineer,Senior,Engineering,Mauricio Torres,Dropped,remoti,Did not pass Wonderlic,2025-07-04,2,,,4
+CAND-0044,2025-06-22,Diego L,Product Designer,Mid,Product,Sergio Salazar,Hired,remoti,,2025-07-31,2,39.0,2025-07-31,8
+CAND-0327,2025-06-24,Sofia R,Data Engineer,Mid,Engineering,Alejandro Aguilar,Dropped,client,Not responsive,2025-07-01,6,,,2
+CAND-0387,2025-06-24,Diego L,Mid Software Engineer,Mid,Engineering,Santiago Aguilar,Hired,client,,2025-07-22,1,28.0,2025-07-22,8
+CAND-0361,2025-06-30,Sofia R,Sr AI Engineer,Senior,Engineering,Valentina Soto,Hired,remoti,,2025-08-01,2,32.0,2025-08-01,8
+CAND-0081,2025-07-01,Diego L,Product Designer,Mid,Product,Luisa Alvarez,Hired,client,,2025-08-05,2,35.0,2025-08-05,8
+CAND-0030,2025-07-09,Diego L,Junior Software Engineer,Junior,Engineering,Miguel Soto,Hired,remoti,,2025-08-21,3,43.0,2025-08-21,8
+CAND-0341,2025-07-14,Andres M,Product Designer,Mid,Product,Ricardo Mendez,Dropped,remoti,Failed Wonderlic and Codility,2025-08-01,10,,,3
+CAND-0164,2025-07-14,Juan S,Sr AI Engineer,Senior,Engineering,Camila Diaz,Dropped,client,Did not pass Wonderlic,2025-07-29,7,,,3
+CAND-0112,2025-07-14,Valentina C,Sr Software Engineer,Senior,Engineering,Laura Bernal,Dropped,remoti,Did not pass Screening,2025-07-25,7,,,2
+CAND-0053,2025-07-15,Andres M,Product Manager,Mid,Product,Rafael Parra,Dropped,remoti,Not responsive,2025-07-24,3,,,3
+CAND-0329,2025-07-19,Camila P,Mobile Engineer,Mid,Engineering,Maria Ramos,Hired,client,,2025-09-04,1,47.0,2025-09-04,8
+CAND-0396,2025-07-19,Andres M,Product Manager,Mid,Product,Gabriel Cano,Dropped,remoti,Did not pass Screening,2025-07-26,5,,,2
+CAND-0058,2025-07-20,Sofia R,Mobile Engineer,Mid,Engineering,Rafael Romero,Dropped,remoti,GPA,2025-08-05,9,,,3
+CAND-0291,2025-07-20,Camila P,IT Vendor Manager,Senior,Operations,Daniel Mendez,Dropped,remoti,Not responsive,2025-08-05,4,,,5
+CAND-0400,2025-07-20,Sofia R,IT Vendor Manager,Senior,Operations,Diego Torres,Dropped,remoti,Did not complete the tests,2025-07-21,1,,,1
+CAND-0119,2025-07-22,Valentina C,Data Engineer,Mid,Engineering,Adriana Suarez,Dropped,remoti,Did not pass Screening,2025-07-26,2,,,2
+CAND-0059,2025-07-23,Valentina C,Product Designer,Mid,Product,Andrea Soto,Hired,remoti,,2025-08-23,1,31.0,2025-08-23,8
+CAND-0047,2025-07-24,Camila P,Sr Software Engineer,Senior,Engineering,Juliana Molina,Dropped,remoti,Did not pass interview,2025-08-18,3,,,5
+CAND-0096,2025-07-25,Diego L,Product Manager,Mid,Product,Daniel Cruz,Dropped,remoti,Did not pass Wonderlic,2025-08-13,5,,,4
+CAND-0265,2025-07-29,Diego L,Product Manager,Mid,Product,Felipe Rios,Dropped,remoti,Did not complete the tests,2025-08-03,5,,,1
+CAND-0249,2025-07-30,Juan S,Mobile Engineer,Mid,Engineering,Mateo Lopez,Hired,remoti,,2025-09-05,1,37.0,2025-09-05,8
+CAND-0002,2025-08-01,Camila P,Mid Software Engineer,Mid,Engineering,Paula Sanchez,Hired,remoti,,2025-08-30,1,29.0,2025-08-30,8
+CAND-0007,2025-08-07,Andres M,Sr Software Engineer,Senior,Engineering,Monica Molina,Dropped,client,Did not pass Wonderlic,2025-08-24,9,,,3
+CAND-0347,2025-08-10,Camila P,Mid Software Engineer,Mid,Engineering,Luisa Rios,Hired,remoti,,2025-09-15,3,36.0,2025-09-15,8
+CAND-0298,2025-08-10,Valentina C,IT Vendor Manager,Senior,Operations,Rafael Garcia,Hired,remoti,,2025-09-10,2,31.0,2025-09-10,8
+CAND-0234,2025-08-11,Juan S,Junior Software Engineer,Junior,Engineering,Isabella Castro,Dropped,remoti,Not responsive,2025-08-27,4,,,3
+CAND-0014,2025-08-11,Andres M,Mid Software Engineer,Mid,Engineering,Diego Vega,Dropped,client,Failed Wonderlic and Codility,2025-08-26,5,,,3
+CAND-0301,2025-08-13,Juan S,Mid Software Engineer,Mid,Engineering,Isabella Gil,Dropped,remoti,Not responsive,2025-08-15,2,,,1
+CAND-0173,2025-08-16,Juan S,Sr Software Engineer,Senior,Engineering,Isabella Acosta,Dropped,remoti,Other,2025-09-04,5,,,4
+CAND-0177,2025-08-16,Camila P,IT Operations,Junior,Operations,Mateo Sanchez,Dropped,remoti,GPA,2025-09-02,10,,,3
+CAND-0050,2025-08-17,Diego L,IT Vendor Manager,Senior,Operations,Ana Cano,Hired,remoti,,2025-09-22,2,36.0,2025-09-22,8
+CAND-0399,2025-08-18,Valentina C,Mobile Engineer,Mid,Engineering,Luisa Ramirez,Dropped,remoti,Withdrew,2025-09-29,6,,,7
+CAND-0228,2025-08-18,Diego L,Junior Software Engineer,Junior,Engineering,Alejandro Castro,Dropped,client,Did not pass interview,2025-08-29,2,,,5
+CAND-0294,2025-08-22,Camila P,Fraud Ops,Junior,Operations,Luis Molina,Dropped,remoti,Did not pass Screening,2025-09-02,6,,,2
+CAND-0131,2025-08-24,Sofia R,Sr Software Engineer,Senior,Engineering,Felipe Gil,Hired,client,,2025-10-07,2,44.0,2025-10-07,8
+CAND-0008,2025-08-24,Camila P,Sr Software Engineer,Senior,Engineering,Marcela Vega,Dropped,remoti,GPA,2025-09-10,7,,,4
+CAND-0215,2025-08-27,Juan S,Product Manager,Mid,Product,Carolina Ramos,Dropped,remoti,Did not pass Screening,2025-09-01,2,,,2
+CAND-0254,2025-08-29,Sofia R,Sr Software Engineer,Senior,Engineering,Felipe Diaz,Hired,remoti,,2025-09-29,1,31.0,2025-09-29,8
+CAND-0272,2025-08-30,Diego L,Mid Software Engineer,Mid,Engineering,Monica Vega,Dropped,remoti,Withdrew,2025-09-09,5,,,2
+CAND-0246,2025-09-04,Valentina C,Sr AI Engineer,Senior,Engineering,Daniela Ospina,Dropped,remoti,Did not pass Screening,2025-09-16,7,,,2
+CAND-0348,2025-09-10,Andres M,Sr Software Engineer,Senior,Engineering,Monica Jimenez,Hired,remoti,,2025-10-20,2,40.0,2025-10-20,8
+CAND-0305,2025-09-13,Juan S,Junior Software Engineer,Junior,Engineering,David Suarez,Dropped,remoti,Failed Wonderlic and Codility,2025-10-12,7,,,4
+CAND-0395,2025-09-14,Valentina C,IT Vendor Manager,Senior,Operations,Andrea Diaz,Dropped,client,Did not pass Codility,2025-09-30,6,,,4
+CAND-0245,2025-09-18,Sofia R,Product Manager,Mid,Product,Santiago Rios,Hired,remoti,,2025-10-31,1,43.0,2025-10-31,8
+CAND-0274,2025-09-19,Diego L,SRE,Senior,Engineering,Adriana Soto,Hired,remoti,,2025-11-02,2,44.0,2025-11-02,8
+CAND-0308,2025-09-22,Diego L,IT Vendor Manager,Senior,Operations,Luisa Ramirez,Hired,remoti,,2025-11-03,3,42.0,2025-11-03,8
+CAND-0296,2025-09-24,Sofia R,Sr Software Engineer,Senior,Engineering,David Gonzalez,Hired,remoti,,2025-10-25,2,31.0,2025-10-25,8
+CAND-0079,2025-09-25,Diego L,Product Manager,Mid,Product,Luisa Vega,Dropped,remoti,Failed Wonderlic and Codility,2025-10-13,1,,,4
+CAND-0250,2025-10-01,Camila P,Fraud Ops,Junior,Operations,Sebastian Ortiz,Dropped,remoti,Failed Technical Interview,2025-10-17,4,,,4
+CAND-0107,2025-10-03,Diego L,Junior Software Engineer,Junior,Engineering,Mariana Cardenas,Dropped,remoti,Other,2025-10-07,4,,,1
+CAND-0010,2025-10-06,Camila P,IT Operations,Junior,Operations,Ana Romero,Dropped,client,Withdrew,2025-11-06,5,,,7
+CAND-0328,2025-10-07,Juan S,Mid Software Engineer,Mid,Engineering,Jorge Suarez,Dropped,remoti,Not responsive,2025-10-12,3,,,2
+CAND-0069,2025-10-08,Juan S,IT Vendor Manager,Senior,Operations,Sebastian Perez,Dropped,remoti,Did not pass Screening,2025-10-14,5,,,2
+CAND-0196,2025-10-09,Valentina C,Mid Software Engineer,Mid,Engineering,Juliana Cano,Dropped,client,Did not pass Wonderlic,2025-10-22,5,,,3
+CAND-0033,2025-10-10,Sofia R,IT Vendor Manager,Senior,Operations,Paola Moreno,Hired,remoti,,2025-11-23,3,44.0,2025-11-23,8
+CAND-0159,2025-10-11,Diego L,IT Operations,Junior,Operations,Sofia Rios,Dropped,remoti,Not responsive,2025-10-13,2,,,1
+CAND-0032,2025-10-14,Valentina C,Product Manager,Mid,Product,Mateo Salazar,Dropped,remoti,Did not pass Wonderlic,2025-10-29,2,,,4
+CAND-0242,2025-10-16,Diego L,Sr Software Engineer,Senior,Engineering,Lina Soto,Dropped,remoti,Did not complete the tests,2025-10-29,9,,,3
+CAND-0302,2025-10-18,Camila P,Sr AI Engineer,Senior,Engineering,Isabella Salazar,Hired,client,,2025-11-21,3,34.0,2025-11-21,8
+CAND-0049,2025-10-19,Juan S,Data Engineer,Mid,Engineering,Mateo Torres,Dropped,client,Did not pass Wonderlic,2025-11-06,3,,,4
+CAND-0180,2025-10-21,Juan S,IT Operations,Junior,Operations,Isabella Medina,Hired,remoti,,2025-11-29,3,39.0,2025-11-29,8
+CAND-0123,2025-10-22,Sofia R,Junior Software Engineer,Junior,Engineering,Carlos Lopez,Hired,remoti,,2025-12-01,2,40.0,2025-12-01,8
+CAND-0279,2025-10-29,Juan S,IT Vendor Manager,Senior,Operations,Alejandro Martinez,Hired,client,,2025-11-25,1,27.0,2025-11-25,8
+CAND-0360,2025-10-30,Sofia R,Sr Software Engineer,Senior,Engineering,Andrea Soto,Dropped,remoti,Did not pass interview,2025-11-21,6,,,5
+CAND-0366,2025-10-31,Camila P,SRE,Senior,Engineering,Nicolas Garcia,Dropped,remoti,Did not pass Wonderlic,2025-11-12,4,,,3
+CAND-0062,2025-11-02,Juan S,Sr Software Engineer,Senior,Engineering,Paula Sanchez,Dropped,client,Other,2025-11-06,2,,,2
+CAND-0244,2025-11-02,Juan S,Product Manager,Mid,Product,Carolina Morales,Dropped,remoti,Other,2025-11-13,7,,,2
+CAND-0186,2025-11-04,Sofia R,Sr AI Engineer,Senior,Engineering,Adriana Salazar,Hired,client,,2025-12-03,2,29.0,2025-12-03,8
+CAND-0015,2025-11-04,Juan S,Mobile Engineer,Mid,Engineering,Daniel Romero,Dropped,remoti,Did not complete the tests,2025-11-05,1,,,1
+CAND-0307,2025-11-05,Camila P,SRE,Senior,Engineering,Luis Jimenez,Dropped,remoti,Failed Wonderlic and Codility,2025-11-14,3,,,3
+CAND-0085,2025-11-07,Camila P,Junior Software Engineer,Junior,Engineering,Monica Rodriguez,Hired,remoti,,2025-12-23,3,46.0,2025-12-23,8
+CAND-0020,2025-11-08,Camila P,Product Manager,Mid,Product,Ivan Bernal,Dropped,remoti,Did not pass Codility,2025-11-25,3,,,4
+CAND-0198,2025-11-09,Juan S,Sr Software Engineer,Senior,Engineering,Carlos Gil,Hired,remoti,,2025-12-21,3,42.0,2025-12-21,8
+CAND-0028,2025-11-10,Andres M,IT Vendor Manager,Senior,Operations,Andres Sanchez,Hired,remoti,,2025-12-14,2,34.0,2025-12-14,8
+CAND-0326,2025-11-12,Andres M,IT Vendor Manager,Senior,Operations,Carlos Suarez,Dropped,client,Did not pass Wonderlic,2025-11-27,5,,,3
+CAND-0281,2025-11-12,Juan S,IT Operations,Junior,Operations,Diego Chavez,Hired,remoti,,2025-12-18,1,36.0,2025-12-18,8
+CAND-0192,2025-11-15,Valentina C,Product Manager,Mid,Product,Gabriel Chavez,Dropped,remoti,Did not complete the tests,2025-11-17,2,,,1
+CAND-0082,2025-11-16,Valentina C,Product Designer,Mid,Product,Maria Vega,Dropped,remoti,Did not complete the tests,2025-12-01,9,,,3
+CAND-0084,2025-11-16,Diego L,Product Manager,Mid,Product,Ana Herrera,Dropped,remoti,Did not pass Screening,2025-11-27,7,,,2
+CAND-0160,2025-11-17,Sofia R,Mobile Engineer,Mid,Engineering,Daniela Molina,Dropped,remoti,Failed Wonderlic and Codility,2025-12-05,4,,,4
+CAND-0022,2025-11-18,Juan S,Product Manager,Mid,Product,Luis Torres,Dropped,remoti,Withdrew,2025-11-30,7,,,2
+CAND-0099,2025-11-21,Valentina C,Product Manager,Mid,Product,Sofia Cruz,Dropped,client,Did not pass Wonderlic,2025-12-10,7,,,3
+CAND-0181,2025-11-21,Diego L,Sr Software Engineer,Senior,Engineering,Andrea Salazar,Dropped,remoti,Did not pass Codility,2025-12-15,5,,,4
+CAND-0367,2025-11-22,Diego L,Sr AI Engineer,Senior,Engineering,Ricardo Salazar,Dropped,remoti,Other,2025-11-26,2,,,2
+CAND-0055,2025-11-25,Sofia R,Mid Software Engineer,Mid,Engineering,Mauricio Rojas,Hired,remoti,,2026-01-04,2,40.0,2026-01-04,8
+CAND-0195,2025-11-28,Andres M,Sr Software Engineer,Senior,Engineering,Diana Bernal,Dropped,remoti,Did not complete the tests,2025-11-30,2,,,1
+CAND-0176,2025-11-28,Camila P,Product Manager,Mid,Product,David Rios,Dropped,client,Did not pass Wonderlic,2025-12-14,8,,,3
+CAND-0264,2025-11-29,Valentina C,Sr Software Engineer,Senior,Engineering,Diego Fuentes,Hired,remoti,,2026-01-17,2,49.0,2026-01-17,8
+CAND-0188,2025-11-30,Camila P,Data Engineer,Mid,Engineering,Sergio Ospina,Hired,client,,2026-01-02,1,33.0,2026-01-02,8
+CAND-0238,2025-12-02,Andres M,Sr Software Engineer,Senior,Engineering,Paula Romero,Dropped,remoti,Other,2025-12-06,4,,,1
+CAND-0277,2025-12-04,Andres M,Mid Software Engineer,Mid,Engineering,Daniel Salazar,Dropped,client,Failed Technical Interview,2025-12-20,5,,,4
+CAND-0043,2025-12-05,Juan S,Mid Software Engineer,Mid,Engineering,Mauricio Moreno,Hired,client,,2026-01-14,2,40.0,2026-01-14,8
+CAND-0303,2025-12-07,Valentina C,Product Manager,Mid,Product,Pablo Acosta,Dropped,remoti,Did not pass Wonderlic,2025-12-23,2,,,4
+CAND-0075,2025-12-07,Valentina C,Sr AI Engineer,Senior,Engineering,Paula Romero,Hired,remoti,,2026-01-16,1,40.0,2026-01-16,8
+CAND-0054,2025-12-10,Diego L,Fraud Ops,Junior,Operations,Jorge Cardenas,Dropped,remoti,Did not pass Codility,2025-12-31,5,,,4
+CAND-0012,2025-12-11,Camila P,Sr AI Engineer,Senior,Engineering,Lina Chavez,Dropped,client,Failed Cultural Interview,2026-01-10,8,,,6
+CAND-0378,2025-12-17,Diego L,Sr Software Engineer,Senior,Engineering,Diana Herrera,Hired,remoti,,2026-01-24,3,38.0,2026-01-24,8
+CAND-0074,2025-12-18,Juan S,Mobile Engineer,Mid,Engineering,Ricardo Ramos,Dropped,client,Did not pass interview,2026-01-26,7,,,6
+CAND-0161,2025-12-19,Sofia R,Sr AI Engineer,Senior,Engineering,Camila Romero,Dropped,remoti,Did not pass Screening,2025-12-26,3,,,2
+CAND-0312,2025-12-20,Camila P,Mid Software Engineer,Mid,Engineering,Santiago Castro,Dropped,remoti,Did not pass Screening,2025-12-29,7,,,2
+CAND-0225,2025-12-23,Juan S,Mid Software Engineer,Mid,Engineering,Diana Chavez,Dropped,remoti,Not responsive,2026-01-03,6,,,2
+CAND-0052,2025-12-28,Sofia R,Mobile Engineer,Mid,Engineering,Luis Ospina,Dropped,remoti,Did not pass Screening,2026-01-05,5,,,2
+CAND-0372,2025-12-28,Sofia R,Product Designer,Mid,Product,Paula Parra,Dropped,remoti,Did not pass interview,2026-01-28,9,,,6
+CAND-0153,2025-12-29,Andres M,Mid Software Engineer,Mid,Engineering,Juan Lopez,Hired,remoti,,2026-01-27,3,29.0,2026-01-27,8
+CAND-0224,2025-12-29,Juan S,Sr AI Engineer,Senior,Engineering,Gabriel Mendez,Dropped,remoti,Did not pass Codility,2026-01-21,7,,,4
+CAND-0248,2025-12-30,Juan S,Mobile Engineer,Mid,Engineering,Miguel Sanchez,Hired,remoti,,2026-02-10,1,42.0,2026-02-10,8
+CAND-0247,2026-01-02,Valentina C,Sr Software Engineer,Senior,Engineering,Luis Alvarez,Hired,remoti,,2026-02-08,2,37.0,2026-02-08,8
+CAND-0046,2026-01-02,Juan S,IT Operations,Junior,Operations,Gabriel Romero,Dropped,remoti,Did not pass Screening,2026-01-08,2,,,2
+CAND-0213,2026-01-02,Valentina C,Junior Software Engineer,Junior,Engineering,Ricardo Soto,Dropped,remoti,Did not pass Codility,2026-01-17,2,,,4
+CAND-0275,2026-01-05,Andres M,Product Manager,Mid,Product,Isabella Rios,Dropped,remoti,Withdrew,2026-01-15,7,,,2
+CAND-0149,2026-01-19,Diego L,Sr AI Engineer,Senior,Engineering,Juliana Martinez,Hired,remoti,,2026-02-23,3,35.0,2026-02-23,8
+CAND-0006,2026-01-20,Juan S,Junior Software Engineer,Junior,Engineering,Jorge Diaz,Dropped,remoti,Withdrew,2026-02-17,8,,,5
+CAND-0178,2026-01-21,Sofia R,Sr Software Engineer,Senior,Engineering,Juliana Rodriguez,Hired,remoti,,2026-02-26,3,36.0,2026-02-26,8
+CAND-0151,2026-01-23,Andres M,Sr AI Engineer,Senior,Engineering,Isabella Ospina,Hired,client,,2026-03-06,3,42.0,2026-03-06,8
+CAND-0358,2026-01-31,Sofia R,Mobile Engineer,Mid,Engineering,Felipe Lopez,Hired,remoti,,2026-03-09,2,37.0,2026-03-09,8
+CAND-0306,2026-02-02,Diego L,IT Operations,Junior,Operations,Santiago Parra,Dropped,remoti,Failed Technical Interview,2026-02-28,6,,,6
+CAND-0323,2026-02-05,Juan S,Mobile Engineer,Mid,Engineering,Rafael Ortiz,Dropped,remoti,Failed Technical Interview,2026-02-22,4,,,4
+CAND-0354,2026-02-06,Sofia R,Mid Software Engineer,Mid,Engineering,Gabriel Ramirez,Dropped,remoti,Not responsive,2026-02-11,4,,,2
+CAND-0287,2026-02-06,Camila P,Product Manager,Mid,Product,Diego Rios,Dropped,remoti,Other,2026-02-11,5,,,1
+CAND-0210,2026-02-08,Valentina C,Product Designer,Mid,Product,Carlos Cano,Dropped,remoti,Withdrew,2026-02-15,6,,,2
+CAND-0335,2026-02-11,Sofia R,Mobile Engineer,Mid,Engineering,Carlos Molina,Dropped,remoti,Did not complete the tests,2026-02-13,2,,,1
+CAND-0094,2026-02-15,Juan S,Mid Software Engineer,Mid,Engineering,Ana Vargas,Dropped,remoti,Not responsive,2026-03-15,5,,,5
+CAND-0144,2026-02-18,Camila P,Mobile Engineer,Mid,Engineering,Pablo Ortiz,Dropped,client,Failed Cultural Interview,2026-03-12,4,,,6
+CAND-0253,2026-02-18,Sofia R,Product Designer,Mid,Product,David Herrera,Dropped,client,Withdrew,2026-03-02,7,,,2
+CAND-0339,2026-02-20,Juan S,SRE,Senior,Engineering,Gabriel Molina,Dropped,remoti,Did not complete the tests,2026-02-21,1,,,1
+CAND-0126,2026-02-24,Juan S,Sr AI Engineer,Senior,Engineering,Mariana Cardenas,Hired,remoti,,2026-03-29,2,33.0,2026-03-29,8
+CAND-0318,2026-02-25,Diego L,Sr AI Engineer,Senior,Engineering,Laura Gil,Hired,remoti,,2026-04-08,1,42.0,2026-04-08,8
+CAND-0076,2026-02-26,Camila P,Sr AI Engineer,Senior,Engineering,Camila Ramirez,Dropped,remoti,Withdrew,2026-03-19,6,,,5
+CAND-0037,2026-02-26,Sofia R,Sr AI Engineer,Senior,Engineering,Catalina Rojas,Hired,client,,2026-04-11,2,44.0,2026-04-11,8
+CAND-0268,2026-02-28,Diego L,IT Vendor Manager,Senior,Operations,David Garcia,Dropped,remoti,Not responsive,2026-03-21,9,,,3
+CAND-0356,2026-03-03,Camila P,Sr Software Engineer,Senior,Engineering,Juan Acosta,Dropped,remoti,Failed Technical Interview,2026-03-23,4,,,4
+CAND-0295,2026-03-08,Camila P,Fraud Ops,Junior,Operations,Maria Diaz,Dropped,remoti,Failed Wonderlic and Codility,2026-03-19,6,,,3
+CAND-0111,2026-03-09,Andres M,Product Manager,Mid,Product,Juan Martinez,Dropped,remoti,Not responsive,2026-03-13,4,,,1
+CAND-0263,2026-03-12,Andres M,Product Manager,Mid,Product,Andres Gonzalez,Dropped,remoti,Did not pass Codility,2026-03-30,4,,,4
+CAND-0259,2026-03-13,Andres M,Product Manager,Mid,Product,Luis Bernal,Dropped,client,Did not complete the tests,2026-03-18,5,,,1
+CAND-0185,2026-03-14,Camila P,Sr Software Engineer,Senior,Engineering,Esteban Gutierrez,Hired,remoti,,2026-04-21,2,38.0,2026-04-21,8
+CAND-0273,2026-03-14,Diego L,IT Vendor Manager,Senior,Operations,Rafael Reyes,Dropped,client,Failed Wonderlic and Codility,2026-03-23,4,,,3
+CAND-0171,2026-03-16,Diego L,Mobile Engineer,Mid,Engineering,Ricardo Cruz,Hired,remoti,,2026-04-20,2,35.0,2026-04-20,8
+CAND-0203,2026-03-16,Valentina C,SRE,Senior,Engineering,Mauricio Gonzalez,Hired,remoti,,2026-04-14,3,29.0,2026-04-14,8
+CAND-0187,2026-03-18,Andres M,Product Manager,Mid,Product,Miguel Mendez,Dropped,remoti,Other,2026-04-06,5,,,4
+CAND-0346,2026-03-28,Diego L,Data Engineer,Mid,Engineering,Esteban Ruiz,Dropped,client,Withdrew,2026-04-12,6,,,5
+CAND-0135,2026-03-29,Valentina C,Sr Software Engineer,Senior,Engineering,Maria Herrera,Dropped,remoti,Other,2026-05-04,7,,,6
+CAND-0289,2026-03-29,Andres M,Sr AI Engineer,Senior,Engineering,Sergio Cardenas,Dropped,remoti,Did not pass Wonderlic,2026-04-13,10,,,3
+CAND-0038,2026-04-01,Valentina C,Junior Software Engineer,Junior,Engineering,Sergio Fuentes,Dropped,remoti,Did not pass Codility,2026-04-20,10,,,3
